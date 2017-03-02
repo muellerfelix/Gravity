@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
-tagline: "Humanity is overrated."
-category: "science"
+title: brewing
+permalink: /brewing/
+tagline: "Stuff about brewing beer at home."
+category: "brewing"
 ---
