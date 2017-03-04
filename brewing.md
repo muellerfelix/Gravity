@@ -2,6 +2,7 @@
 layout: archive
 title: brewing
 permalink: /brewing/
-tagline: "Stuff about brewing beer at home."
+tagline: "stuff I brew."
 category: "brewing"
+weight: 3
 ---

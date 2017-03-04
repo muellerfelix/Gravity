@@ -2,6 +2,7 @@
 layout: page
 title : About
 permalink: /about/
+weight: 4
 ---
 
 <h2>Gravity</h2>
