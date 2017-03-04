@@ -9,8 +9,8 @@
 title: "muellerfelix"
 email: felixx.mueller@gmail.com
 description: "A personal blog about minimalism, brewing beer and developing software."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://muellerfelix.github.com" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://muellerfelix.github.io" # the base hostname & protocol for your site
 github_username:  muellerfelix
 paginate: 5
 
